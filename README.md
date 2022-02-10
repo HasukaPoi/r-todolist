@@ -1,3 +1,13 @@
+# r-todolist
+
+对几年没碰的React做一个回顾。先从下面这个站找到的todolist开始。
+
+[React入门实战实例——ToDoList实现](https://www.cnblogs.com/CherishTheYouth/p/CherishTheYouth_20200719_2.html)
+
+实际操作中使用Create-React-App来创建工程，尽量不复制代码。
+
+下面的内容是脚手架自动生成的。
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
